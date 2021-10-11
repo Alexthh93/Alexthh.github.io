@@ -2,15 +2,16 @@
 body {
     background-color: black;
     color: white;
-    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
 }
 
 
 /* Header Section / download-link, is applied for main section aswell */
 .Header-Text {
-    font-weight: normal;
     font-size: 50px;
+    font-weight: normal;
 }
 
 .download-link {
@@ -27,8 +28,8 @@ h2 {
 }
 
 p {
-    font-size: 21px;
     color: gray;
+    font-size: 21px;
 }
 
 
