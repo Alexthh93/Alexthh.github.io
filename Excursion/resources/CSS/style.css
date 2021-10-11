@@ -1,9 +1,29 @@
 /* universal tags */
-
-
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 
 /* Header Section */
+.Header-Text {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+/* Mobile Video section */
+
+.mobile-video {
+    
+}
 
 
 
