@@ -7,7 +7,7 @@ body {
 }
 
 
-/* Header Section */
+/* Header Section / download-link, is applied for main section aswell */
 .Header-Text {
     font-weight: normal;
     font-size: 50px;
@@ -19,22 +19,25 @@ body {
 }
 
 
-/* Mobile Video section */
 
-.mobile-video {
-    
+/* Main Section / with coming soon section (h2) */
+h2 {
+    font-size: 42px;
+    font-weight: 300;
 }
 
-
-
-
-/* Main Section */
+p {
+    font-size: 21px;
+    color: gray;
+}
 
 
 
 
 /* Footer Section */
 
-
+.Copyright {
+    text-align: right; 
+}
 
 
