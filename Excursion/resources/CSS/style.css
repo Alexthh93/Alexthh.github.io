@@ -3,8 +3,7 @@ body {
     background-color: black;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    
+    text-align: center; 
 }
 
 
@@ -20,19 +19,17 @@ body {
 }
 
 
-
 /* Main Section / with coming soon section (h2) */
 h2 {
     font-size: 42px;
     font-weight: 300;
 }
 
+
 p {
     color: gray;
     font-size: 21px;
 }
-
-
 
 
 /* Footer Section */
