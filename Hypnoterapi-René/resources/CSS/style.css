@@ -38,7 +38,7 @@ p {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
-    background: #1b19193;
+    background-color: #1b1919;
     color: #b7b7b7;
     padding: 20px;
     z-index: 1;
@@ -62,6 +62,7 @@ p {
   .menu-logo img {
     max-height: 100px;
     margin-left: 60%;
+    flex-shrink: 0;
   }
   
   .menu-container a {
@@ -218,7 +219,6 @@ p {
 
 
 /* Main section */
-
 
 
 /* Footer Ssection */
