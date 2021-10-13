@@ -1,22 +1,37 @@
 /* Universal Tags */
 body {
-    text-align: center;
     background-color: #1b1919;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
 }
 
 
 /* Header Section */
 .banner-img {
-    height: 750px;
+    background: url(../banner-img\ \(2\).png) no-repeat center;
+    background-size: cover;
+    margin-top: -2%;
+}
+
+h1 {
+    color: #ffffff;
+    padding-top: 24%;
+    font-size: 50px;
+    margin-bottom: -1%;
+    text-shadow: 2px 2px 3px #474747;
+}
+
+p {
+    color: #ffffff;
+    font-size: 25px;
+    padding-bottom: 1%;
+    text-shadow: 2px 2px 3px #474747;
 }
 
 
 /* NAVIGATION SECTION */
-body {
-    overflow-x: hidden;
-    font-family: Sans-Serif;
-    margin: 0;
-  }
   
   .menu-container {
     position: relative;
