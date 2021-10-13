@@ -15,7 +15,7 @@ body {
     margin-top: -2%;
 }
 
-h1 {
+.tittle {
     color: #ffffff;
     padding-top: 24%;
     font-size: 50px;
@@ -220,5 +220,12 @@ p {
 
 /* Main section */
 
+.info-kommer {
+    color: #ffffff;
+    padding-top: 2%;
+    font-size: 50px;
+    margin-bottom: -1%;
+    text-shadow: 2px 2px 3px #474747;
+}
 
 /* Footer Ssection */
