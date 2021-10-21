@@ -1,10 +1,40 @@
-[33mcommit 0b7f703fc3200d42d0da90a55e9ace7ef7fec558[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[33mcommit cdc87a9a86910826d5cfd0aeb89f0fde4a6ae4f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alex - RoX_KD <Alex.t.h.93@hotmail.com>
+Date:   Wed Oct 13 10:34:29 2021 +0200
+
+     h
+
+[33mcommit e91140d4864fbbd554e3d66548fd49a5e4ce6cde[m
+Author: Alex - RoX_KD <Alex.t.h.93@hotmail.com>
+Date:   Wed Oct 13 10:32:38 2021 +0200
+
+    add index mere info kommer
+
+[33mcommit 466ba033f867f3ccfddf4afb82f03be01c879ecc[m
+Author: Alex - RoX_KD <Alex.t.h.93@hotmail.com>
+Date:   Wed Oct 13 10:31:45 2021 +0200
+
+    add mere info kommer
+
+[33mcommit f351a13f941d15fe00fd6406f09cc3048bcc6fae[m
+Author: Alex - RoX_KD <Alex.t.h.93@hotmail.com>
+Date:   Wed Oct 13 10:21:45 2021 +0200
+
+    clean up folders
+
+[33mcommit 2655920049bb8347e29f3253c0f73e9c01c870a8[m
+Author: Alex - RoX_KD <Alex.t.h.93@hotmail.com>
+Date:   Wed Oct 13 09:50:35 2021 +0200
+
+    add resourc folder
+
+[33mcommit 0b7f703fc3200d42d0da90a55e9ace7ef7fec558[m
 Author: Alex - RoX_KD <Alex.t.h.93@hotmail.com>
 Date:   Tue Oct 12 13:30:42 2021 +0200
 
     add index, resources and css layout for top section
 
-[33mcommit 7e5c3e4f07ceb81531cb3fcdb99acefb87b6dbb7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33mcommit 7e5c3e4f07ceb81531cb3fcdb99acefb87b6dbb7[m
 Author: Alex - RoX_KD <Alex.t.h.93@hotmail.com>
 Date:   Tue Oct 12 10:34:36 2021 +0200
 
